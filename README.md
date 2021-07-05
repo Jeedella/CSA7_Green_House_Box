@@ -15,7 +15,7 @@ Install and in case if software will ask for update, don't do it.
 
 Now the list of requires hardware
 
-• chipKIT Pro MX4 (PIC 32 board), see [Digilent store](https://store.digilentinc.com/digilent-pro-mx7-pic32-based-embedded-systems-trainer-board/).
+• chipKIT Pro MX4/MX7 (PIC 32 board), see [Digilent store](https://store.digilentinc.com/digilent-pro-mx7-pic32-based-embedded-systems-trainer-board/).
 
 
 
