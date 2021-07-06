@@ -49,7 +49,7 @@ Now the list of requires hardware
 
 Now solder it according to circuit below.
 
-![](images/LED_circuit.jpg)
+![](images/LED_circuit_new.jpg)
 
 3. Now adjust the first DC/DC buck converter to 3V with current 1A (Use the potentiometers). And second DC/DC buck converter to 15V 0.7A.
 4. Now make the load control circuit. The schematic below shows 1 channel. So make two of this circuits. One for fan one for pump.
