@@ -8,8 +8,8 @@ This repository implements partial smart green house system. The project itself 
 # Requirements
 Lets start from software. The necessay programs you can download from natshool follow the path S6_ES2_Embedded Systems 2 --> software. In this project the "old" versions of software is used.
 
-• MPLABX-V3.61-WINDOWS-INSTALLER.EXE<br/>
-• XC32-V1.40-FULL-INSTALL-WINDOWS-INSTALLER.EXE
+• **MPLABX-V3.61-WINDOWS-INSTALLER.EXE**<br/>
+• **XC32-V1.40-FULL-INSTALL-WINDOWS-INSTALLER.EXE**
 
 Install and in case if software will ask for update, don't do it.
 
