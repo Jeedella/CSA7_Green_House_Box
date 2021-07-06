@@ -37,5 +37,5 @@ Now the list of requires hardware
 • **Silicone tube for pump, 20-30 cm, 6mm**<br/>
 • **Wires**<br/>
 • **Blue DC terminals**<br/>
-
+• **Growbox**, [see here](https://royalroom.eu/en/classic-series/27-c30.html).<br/>
 
