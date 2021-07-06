@@ -30,18 +30,21 @@ Now the list of requires hardware
 • **100 Ohm resistor**<br/>
 • **1.6 kOhm resistor**<br/>
 • **1 kOhm thermo-resistor**<br/>
-• **Deep Red 3W LED**, 3 pieces [see here](https://www.ebay.com/itm/331827730204?var=540913915522&hash=item4d4279571c:g:-acAAOSwy5ZXCge7).<br/>
+• **Deep Red 3W LED**, 4 pieces [see here](https://www.ebay.com/itm/331827730204?var=540913915522&hash=item4d4279571c:g:-acAAOSwy5ZXCge7).<br/>
 • **Royal Blue 3W LED**, 2 pieces [see here](https://www.ebay.com/itm/254943815529?var=554824610970&hash=item3b5bd5e769:g:meEAAOSwPVJgeQBr).<br/>
 • **Thermal glue**, [see here](https://www.aliexpress.com/item/1005001810626068.html?spm=a2g0o.productlist.0.0.c4e35b10uyqpxz&algo_pvid=ec34edbd-4966-46d3-9505-f41c84166e01&algo_exp_id=ec34edbd-4966-46d3-9505-f41c84166e01-0).<br/>
 • **Aluminium heatsinks**, 4 pieces [see here](https://www.ebay.com/itm/114879082071?hash=item1abf53ae57:g:VYAAAOSwOUxg4ox0).<br/>
 • **Silicone tube for pump, 20-30 cm, 6mm**<br/>
 • **Wires**<br/>
 • **Blue DC terminals**<br/>
+• **2 Metal strips, 26 cm, 1 cm, 3mm thick**<br/>
+• **Wires**<br/>
 • **Growbox**, [see here](https://royalroom.eu/en/classic-series/27-c30.html).<br/>
 
-# Set up
+# Building up
 
 1. Create the project in MPLAB X and place the greenhouse.h and greenhouse.c files to project, clean and and upload to PIC 32.
+2. Drill 4 heatsinks and attach them to two metal strips, then glue, using thermal glue the LED's the photo will ilustrate the LED placement. Use it as reference.
 
 
 
