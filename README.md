@@ -54,6 +54,9 @@ Now solder it according to circuit below.
 3. Now adjust the first DC/DC buck converter to 3 V with current 1 A (Use the potentiometers). And second DC/DC buck converter to 15 V 0.7 A.
 4. Now make the load control circuit. The schematic below shows 1 channel. So make two of this circuits. One for fan one for pump.
 
+![](images/Load_control_circuit.jpg)
+
+
 
 
 
