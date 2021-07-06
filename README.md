@@ -39,3 +39,16 @@ Now the list of requires hardware
 • **Blue DC terminals**<br/>
 • **Growbox**, [see here](https://royalroom.eu/en/classic-series/27-c30.html).<br/>
 
+# Set up
+
+1. Create the project in MPLAB X and place the greenhouse.h and greenhouse.c files to project, clean and and upload to PIC 32.
+
+
+
+
+
+
+
+
+
+
