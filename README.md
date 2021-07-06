@@ -69,6 +69,16 @@ Now solder it according to circuit below.
 ![](images/Overall_circuit.jpg)
 
 
+The next picture shows the completed module part.
+
+![](images/Overall_realized.jpg)
+
+8. Now build up the growbox and attach the LEDs, place water tank, soil humidity sensor, thermo sensor and fan on top of growbox on ventilation hole. The picture below shows the completed growbox.
+
+![](images/LEDs_ON.jpg)
+
+
+
 
 
 
