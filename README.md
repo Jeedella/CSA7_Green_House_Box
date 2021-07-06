@@ -60,9 +60,13 @@ Now solder it according to circuit below.
 
 ![](images/Sensor_circuit.jpg)
 
-6. Now the tank with pump. take the silicone pipe and attach on pump. Make the 3 holes on the tank. 1st small for pump wires, the 2nd wider for pipe and 3rd smaller for air to come in. At end you will have something like this like shown on picture below.
+6. Now the tank with pump. take the silicone pipe and attach on pump. Make the 3 holes on the tank. 1st small for pump wires, the 2nd wider for pipe and 3rd smaller for air to come in. At end you will have something like this like shown on picture below (no cover, in picture).
 
 ![](images/Pump_setup.jpg)
+
+7. Now connect the soil moisture sensor to soil m. sensor circuit. At this moment we can connect all hardware on the plate. The wire length is arbitrary and is choosen by you, depending on where you want to put the electronics, nearby growbox or more further away. The picture below shows the diagram of how to connect the modules.
+
+![](images/Overall_circuit.jpg)
 
 
 
