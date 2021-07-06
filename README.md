@@ -56,6 +56,11 @@ Now solder it according to circuit below.
 
 ![](images/Load_control_circuit.jpg)
 
+5. The next step is to make the thermo sensor. USe the shematic below.
+
+![](images/Sensor_circuit.jpg)
+
+6. Now the tank with pump. take the silicone pipe and attach on pump. Make the 3 holes on the tank. 1st small for pump wires, the 2nd wider for pipe and 3rd smaller for air to come in. At end you will have something like this like shown on picture below.
 
 
 
