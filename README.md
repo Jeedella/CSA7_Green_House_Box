@@ -20,4 +20,22 @@ Now the list of requires hardware
 • **DC/DC buck converter**, 2 pieces, [see here](https://www.aliexpress.com/item/32880711859.html?spm=a2g0o.productlist.0.0.c2056dc1JRKjr1&algo_pvid=07528233-404a-41d1-bc98-66a08222c6cf&algo_exp_id=07528233-404a-41d1-bc98-66a08222c6cf-17).<br/>
 • **24V 5A PSU**, [see here](https://www.aliexpress.com/item/32917064576.html?spm=a2g0o.productlist.0.0.1e044929O7Oz3v&algo_pvid=c0f02355-a4ab-4b93-90f0-0c725b8d4208&algo_exp_id=c0f02355-a4ab-4b93-90f0-0c725b8d4208-16).<br/>
 • **5V 2A PSU**, [see here](https://www.aliexpress.com/item/1005002248248456.html?spm=a2g0o.productlist.0.0.47221c374vA218&algo_pvid=85bee760-1de0-4256-8bfb-cd93d364205c&algo_exp_id=85bee760-1de0-4256-8bfb-cd93d364205c-58).<br/>
+• **IRL540N**, 2 pieces [see here](https://www.aliexpress.com/item/33018674962.html?spm=a2g0o.productlist.0.0.4fcaf554dRe8s5&algo_pvid=e5f04b8b-bb7d-4e6c-b608-39f3f85b148d&algo_exp_id=e5f04b8b-bb7d-4e6c-b608-39f3f85b148d-0).<br/>
+• **4N35**, 2 pieces [see here](https://www.aliexpress.com/item/32832602337.html?spm=a2g0o.productlist.0.0.adb142caq9VaeE&algo_pvid=80694628-e859-43af-be53-580e0c18366b&algo_exp_id=80694628-e859-43af-be53-580e0c18366b-2).<br/>
+• **1N4001**, 2 pieces [see here](https://www.aliexpress.com/item/1005001552094086.html?spm=a2g0o.productlist.0.0.56f63da00oGqSh&algo_pvid=65960875-6243-4345-bc11-30e9f54c56d3&algo_exp_id=65960875-6243-4345-bc11-30e9f54c56d3-0).<br/>
+• **Pump**, [see here](https://www.aliexpress.com/item/1005002405644529.html?spm=a2g0o.productlist.0.0.64a82b8d0ngwYL&algo_pvid=7e207499-687f-481c-9cc4-6513fec3d382&algo_exp_id=7e207499-687f-481c-9cc4-6513fec3d382-0).<br/>
+• **Fan**, [see here](https://www.aliexpress.com/item/32815977265.html?spm=a2g0o.productlist.0.0.5fb66a0921BwNZ&algo_pvid=e2596c4d-6739-44ce-825a-b9f9dbc5cfa3&algo_exp_id=e2596c4d-6739-44ce-825a-b9f9dbc5cfa3-46).<br/>
+• **10 kOhm resistor**<br/>
+• **220 Ohm resistor**<br/>
+• **100 Ohm resistor**<br/>
+• **1.6 kOhm resistor**<br/>
+• **1 kOhm thermo-resistor**<br/>
+• **Deep Red 3W LED**, 3 pieces [see here](https://www.ebay.com/itm/331827730204?var=540913915522&hash=item4d4279571c:g:-acAAOSwy5ZXCge7).<br/>
+• **Royal Blue 3W LED**, 2 pieces [see here](https://www.ebay.com/itm/254943815529?var=554824610970&hash=item3b5bd5e769:g:meEAAOSwPVJgeQBr).<br/>
+• **Thermal glue**, [see here](https://www.aliexpress.com/item/1005001810626068.html?spm=a2g0o.productlist.0.0.c4e35b10uyqpxz&algo_pvid=ec34edbd-4966-46d3-9505-f41c84166e01&algo_exp_id=ec34edbd-4966-46d3-9505-f41c84166e01-0).<br/>
+• **Aluminium heatsinks**, 4 pieces [see here](https://www.ebay.com/itm/114879082071?hash=item1abf53ae57:g:VYAAAOSwOUxg4ox0).<br/>
+• **Silicone tube for pump, 20-30 cm, 6mm**<br/>
+• **Wires**<br/>
+• **Blue DC terminals**<br/>
+
 
