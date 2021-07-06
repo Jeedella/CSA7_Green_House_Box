@@ -46,8 +46,14 @@ Now the list of requires hardware
 1. Create the project in MPLAB X and place the greenhouse.h and greenhouse.c files to project, clean and and upload to PIC 32.
 2. Drill 4 heatsinks and attach them to two metal strips, then glue, using thermal glue the LED's the photo will ilustrate the LED placement. Use it as reference.
 ![](images/LEDs_prot_placement.jpg)
+
 Now solder it according to circuit below.
+
 ![](images/LED_circuit.jpg)
+
+3. Now adjust the first DC/DC buck converter to 3 V with current 1 A (Use the potentiometers). And second DC/DC buck converter to 15 V 0.7 A.
+4. Now make the load control circuit. The schematic below shows 1 channel. So make two of this circuits. One for fan one for pump.
+
 
 
 
