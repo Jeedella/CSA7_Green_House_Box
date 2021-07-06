@@ -45,7 +45,7 @@ Now the list of requires hardware
 
 1. Create the project in MPLAB X and place the greenhouse.h and greenhouse.c files to project, clean and and upload to PIC 32.
 2. Drill 4 heatsinks and attach them to two metal strips, then glue, using thermal glue the LED's the photo will ilustrate the LED placement. Use it as reference.
-3.https://github.com/Jeedella/CSA7_Green_House_Box/issues/1#issue-937893794
+![](images/LEDs_prot_palcement)
 
 
 
