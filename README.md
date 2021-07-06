@@ -46,6 +46,9 @@ Now the list of requires hardware
 1. Create the project in MPLAB X and place the greenhouse.h and greenhouse.c files to project, clean and and upload to PIC 32.
 2. Drill 4 heatsinks and attach them to two metal strips, then glue, using thermal glue the LED's the photo will ilustrate the LED placement. Use it as reference.
 ![](images/LEDs_prot_placement.jpg)
+Now solder it according to circuit below.
+![](images/LED_circuit.jpg)
+
 
 
 
